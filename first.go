@@ -1,0 +1,6 @@
+fmt
+.
+Println
+(
+   "Hello, World!"
+)
